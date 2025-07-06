@@ -1,0 +1,4 @@
+{
+  "cursor.composer.defaultMcpServer": "ps-pool",
+  "cursor.composer.shellIntegration.enabled": false
+}

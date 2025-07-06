@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ps-pool": {
+      "transport": "sse",
+      "url": "http://localhost:5001/events",
+      "command": "/full/path/to/mcp_server/__main__.py"
+    }
+  }
+}
